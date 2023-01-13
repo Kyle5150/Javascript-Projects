@@ -8,16 +8,15 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- JavaScript
+- Node.js
+- HTML
+- CSS
 
-{Describe the programming language that you used and any libraries.}
+# Useful Websites/Videos
 
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Creating To-do List App](https://youtu.be/MkESyVB4oUw)
+- [Node.js Guide](https://youtu.be/ENrzD9HAZK4)
 
 # Future Work
 
