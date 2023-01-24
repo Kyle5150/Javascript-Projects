@@ -1,6 +1,6 @@
 # Overview
 
-I am trying to understand how Node.js works, and how I can use my knowledge of Javascript to produce something using Node.js.
+I am trying to understand how Node.js works and how I can use my knowledge of Javascript to produce something using Node.js.
 
 I have built my first web app using Node.js. It is nothing special, just a working product is all I was going for. I was also able to complete a working to-do list app to improve my skills with Javascript, CSS, and HTML.
 
