@@ -18,7 +18,7 @@ I have built my first web app using Node.js. It is nothing special, just a worki
 
 # Future Work
 
-I would like to continue adding features to my to-do list application, and I would also like to create a purposful app using Node.js as well.
+I would like to continue adding features to my to-do list application, and I would also like to create a purposeful app using Node.js as well.
 
 - To-do List App - keep local memory of items created
 - To-do List App - check box that crosses off items from your list, but you can still see them in a seperate list
