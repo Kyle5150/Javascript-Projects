@@ -1,10 +1,8 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am trying to understand how Node.js works, and how I can use my knowledge of Javascript to produce something using Node.js.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
+I have built my first web app using Node.js. It is nothing special, just a working product is all I was going for. I was also able to complete a working to-do list app to improve my skills with Javascript, CSS, and HTML.
 
 # Development Environment
 
@@ -20,8 +18,8 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+I would like to continue adding features to my to-do list application, and I would also like to create a purposful app using Node.js as well.
 
-- Item 1
-- Item 2
-- Item 3
+- To-do List App - keep local memory of items created
+- To-do List App - check box that crosses off items from your list, but you can still see them in a seperate list
+- Node.js - build a meaningful app that I can have someone else find and use
